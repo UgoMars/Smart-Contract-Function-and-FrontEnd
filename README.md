@@ -12,7 +12,7 @@ https://www.loom.com/share/5336d7a7567349e8bdb2faedbaf1a723?sid=1fdcff81-bd03-4f
 https://messagesigning-dapp.vercel.app/
 
 
-### Deployed and Verified Contract Address
+### Deployed and Verified Contract Address (Avalanche-Fuji)
 
 https://testnet.snowtrace.io/address/0x747438aF2D0F4BeE9165630b02C16164BE453771/contract/43113/code
 
